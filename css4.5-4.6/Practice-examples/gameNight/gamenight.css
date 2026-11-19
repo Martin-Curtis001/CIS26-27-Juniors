@@ -38,7 +38,7 @@ header{
 }
 
 /* Step 3: Background shorthand (header) and footer colors */
-.top{
+header{
    background-color: var(--night) url(../Images/dots.svg);
 }
 
