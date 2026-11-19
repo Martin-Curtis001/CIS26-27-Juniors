@@ -38,8 +38,8 @@ h2 {
 }
 
 /* Step 3: Background shorthand (header) and footer colors */
-header{
-   background-color: var(--night) url(..Images/dots.svg);
+.top{
+   background-color: var(--night) url(../Images/dots.svg);
 }
 
 footer{
