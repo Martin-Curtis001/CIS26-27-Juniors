@@ -34,7 +34,7 @@ h2 {
 }
 
 .game{
-   background-color: rgba(61, 220, 151, 0.2)
+   background-color: rgba(61, 220, 151, 0.2);
 }
 
 /* Step 3: Background shorthand (header) and footer colors */
@@ -88,7 +88,7 @@ footer{
 
 /* Step 7: font-family stacks and the font shorthand */
 body { 
-   font-family:Verdana, Arial, Helvetica, sans-serif;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
 } 
 
 h1 { 
