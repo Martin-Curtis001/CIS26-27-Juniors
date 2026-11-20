@@ -33,11 +33,11 @@ h2 {
    color: var(--neon-pink);
 }
 
-.top {
+header {
    background-color: rgba(61, 220, 151, 0.2);
 }
 /* Step 3: Background shorthand (header) and footer colors */
-.top {
+header {
    background-color: var(--night) url(../Images/dots.svg);
 }
 
