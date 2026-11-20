@@ -17,7 +17,7 @@
 
 
 /* Step 2: Text and background colors (name, hex, RGB, HSL, RGBA) */
-body{
+body {
    color: var(--night);
    background-color: var(--paper);
 }
@@ -25,7 +25,7 @@ h1 {
    color: var(--gold);
 }
 
-.tagline{
+.tagline {
    color: rgb(255, 255, 255);
 }
 
@@ -33,29 +33,29 @@ h2 {
    color: var(--neon-pink);
 }
 
-header{
+header {
    background-color: rgba(61, 220, 151, 0.2);
 }
 /* Step 3: Background shorthand (header) and footer colors */
-header{
+header {
    background-color: var(--night) url(../Images/dots.svg);
 }
 
-footer{
+footer {
    background-color: var(--night);
    color: white;
 }
 
-footer a{
+footer a {
    color: var(--gold);
 }
 
 /* Step 4: display: inline-block for the nav menu */
-nav li{
+nav li {
    display: inline-block;
 }
 
-nav a{
+nav a {
    color: var(--neon-green);
 }
 
@@ -64,16 +64,16 @@ nav a:hover {
 }
 
 /* Step 5: float the image, clear the footer */
-.float-right{
+.float-right {
    float: right;
 }
 
-footer{
+footer {
    clear: both;
 }
 
 /* Step 6: display: inline-block (.badge) and display: none (.staff-note) */
-.staff-note{
+.staff-note {
    display: none 
 }
 
@@ -133,20 +133,20 @@ header,footer {
    text-align: center;
 }
 
-nav a{
+nav a {
    text-transform: uppercase;
    text-decoration: none;
 }
 
-nav a:hover{
+nav a:hover {
    text-decoration: underline;
 }
 
-#rules p{
+#rules p {
    text-align: justify;
    text-indent: 2em;
 }
 
-.cancelled{
+.cancelled {
    text-decoration: line-through .3em;
 }
