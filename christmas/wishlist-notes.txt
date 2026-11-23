@@ -31,7 +31,7 @@
              <tr>
                 <td>2</td>
                 <td>Gaming Laptop</td>
-                <td>1,999.00</td>
+                <td>$1,999.00</td>
                 <td>https://www.walmart.com/ip/ASUS-ROG-Strix-G16-Gaming-Laptop-16-WUXGA-165Hz-AMD-Ryzen-9-9955HX-NVIDIA-GeForce-RTX-5060-16GB-1TB-SSD-Windows-11-Eclipse-Gray/13567365941?classType=VARIANT&athbdg=L1300&adsRedirect=true</td>
                 <td></td>
                 <td></td>
@@ -39,48 +39,48 @@
               <tr>
                 <td>3</td>
                 <td>IPhone</td>
-                <td>49.95/Month</td>
+                <td>$49.95/Month</td>
                 <td>https://www.apple.com/shop/buy-iphone/iphone-18-pro/6.3-inch-display-256gb-glacier?cid=aos-us-seo-pla-iphone&purchaseOption=bfi</td>
                 <td></td>
                 <td></td>
             </tr>
              <tr>
                 <td>4</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>A Cruise</td>
+                <td>$218</td>
+                <td>https://cs.cruise.com/cs/forms/CruiseResultPage.aspx?skin=1&phone=888-333-3116&pin=&token=&lid=en&did=1&mon=1%2f1%2f2027</td>
                 <td></td>
                 <td></td>
             </tr>
               <tr>
                 <td>5</td>
-                <td></td>
-                <td></td>
+                <td>Spending time with family</td>
+                <td>Priceless</td>
                 <td></td>
                 <td></td>
                 <td></td>
             </tr>
              <tr>
                 <td>6</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Cat</td>
+                <td>$50</td>
+                <td>https://potsdamhumanesociety.org/adopt-a-pet/</td>
                 <td></td>
                 <td></td>
             </tr>
               <tr>
                 <td>7</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>A Wired Mouse </td>
+                <td>$15.99</td>
+                <td>https://www.walmart.com/ip/TECKNET-Wired-Mouse-6-Button-Corded-4-Adjustable-DPI-Optical-Ergonomic-Design-5FT-Cord-Laptop-Chromebook-PC-Desktop-Mac-Notebook-LT-Purple/20039466189</td>
                 <td></td>
                 <td></td>
             </tr>
             <tr>
                 <td>8</td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>A trip to the Grand Canyons </td>
+                <td>$30.00</td>
+                <td>https://www.nps.gov/grca/planyourvisit/fees.htm</td>
                 <td></td>
                 <td></td>
             </tr>
