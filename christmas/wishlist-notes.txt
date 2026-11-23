@@ -22,27 +22,31 @@
         <tbody>
             <tr>
                 <td>1</td>
-                <td></td>
-                <td></td>
+                <td>Meta Quest 3S</td>
+                <td>$440.99</td>
+                <td>https://www.walmart.com/ip/Meta-Quest-3S-256GB-VR-Headset-Level-Double-Storage-2X-Graphical-Processing-Power-Virtual-Reality-Without-Wires-Access-40-Games-3-Month-Trial-Meta-Ho/6228355412?classType=REGULAR&from=/search</td>
                 <td></td>
                 <td></td>
             </tr>
              <tr>
                 <td>2</td>
-                <td></td>
-                <td></td>
+                <td>Gaming Laptop</td>
+                <td>1,999.00</td>
+                <td>https://www.walmart.com/ip/ASUS-ROG-Strix-G16-Gaming-Laptop-16-WUXGA-165Hz-AMD-Ryzen-9-9955HX-NVIDIA-GeForce-RTX-5060-16GB-1TB-SSD-Windows-11-Eclipse-Gray/13567365941?classType=VARIANT&athbdg=L1300&adsRedirect=true</td>
                 <td></td>
                 <td></td>
             </tr>
               <tr>
                 <td>3</td>
+                <td>IPhone</td>
+                <td>49.95/Month</td>
+                <td>https://www.apple.com/shop/buy-iphone/iphone-18-pro/6.3-inch-display-256gb-glacier?cid=aos-us-seo-pla-iphone&purchaseOption=bfi</td>
                 <td></td>
-                <td></td>
-                <td>>
                 <td></td>
             </tr>
              <tr>
                 <td>4</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -54,9 +58,11 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td></td>
             </tr>
              <tr>
                 <td>6</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -68,6 +74,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td>8</td>
@@ -75,9 +82,11 @@
                 <td></td>
                 <td></td>
                 <td></td>
+                <td></td>
             </tr>
              <tr>
                 <td>9</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
